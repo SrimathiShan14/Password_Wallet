@@ -27,6 +27,6 @@
 * Working on `Delete account` option to delete all the datas of an account
 
 ## TECHNOLOGIES USED
-HTML, CSS, Java Script, PHP, mysql
+HTML, CSS, Java Script, PHP, MySql
 ## HOSTED LINK
 https://crew5.000webhostapp.com/
